@@ -1,5 +1,8 @@
 # Data sets used in SynQuant paper
-All data sets used in the paper, along with the labels, can be downloaded [here](https://drive.google.com/open?id=1cGgpkxL0z0vnMTR1eXLxQFacjlVRmwNW).
+All data sets used in the paper, along with the labels, can be downloaded from [zenodo](https://doi.org/10.5281/zenodo.10561290)
+<!---
+or [here](https://drive.google.com/open?id=1cGgpkxL0z0vnMTR1eXLxQFacjlVRmwNW).
+-->
 
 ## Bass's 3D in vivo data
 This data set is obtaind from [1], which can be downloaded at https://www.zenodo.org/record/215600#.XK0LBJhKjBV.
